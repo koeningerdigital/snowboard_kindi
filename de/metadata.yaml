@@ -12,6 +12,6 @@ lof: false
 toc: true
 toc-own-page: true
 toc-depth: 3
-logo: src/images/logo_snowboardkidis.png
+logo: de/src/images/logo_snowboardkidis.png
 logo-width: 300px
 ---
