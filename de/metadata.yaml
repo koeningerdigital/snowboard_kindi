@@ -1,10 +1,10 @@
 ---
-title: "lernOS Template Leitfaden"
-subtitle: "Dein eigener lernOS Leitfaden in einem Sprint"
-author: [Simon Dückert]
-date: "Version 0.2 (01.01.2022)"
+title: "Snowboard-Kurs Leitfaden"
+subtitle: "Dein Leitfaden für einen erfolgreichen Snowboard-Kurs"
+author: [Pascal Koeninger]
+date: "Version 0.1 (02.03.2024)"
 titlepage: true
-titlepage-color: "ff6600"
+titlepage-color: "316D9E"
 titlepage-text-color: "ffffff"
 titlepage-rule-color: "ffffff"
 links-as-notes: true
@@ -12,6 +12,6 @@ lof: false
 toc: true
 toc-own-page: true
 toc-depth: 3
-logo: src/images/lernOS-logo-white-4000px.png
+logo: src/images/logo_snowboardkidis.png
 logo-width: 300px
 ---

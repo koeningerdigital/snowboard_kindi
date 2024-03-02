@@ -16,12 +16,11 @@ nav:
 
 theme:
     name: 'material'
-    custom_dir: src/overrides
     palette:
-        scheme: lernos
+        primary: custom
     language: de
     icon:
-      logo: material/home
+      logo: src/images/logo_snowboardkidis.png
       repo: fontawesome/brands/github
 
 extra_css:

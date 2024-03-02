@@ -1,12 +1,17 @@
+:root {
+    --md-primary-fg-color:        #316D9E;
+    --md-primary-fg-color--light: #99CCF6;
+    --md-primary-fg-color--dark:  #193B57;
+  }
 .wy-side-nav-search {
-background: #ff6600;
-background-color: #ff6600;
+background: #316D9E;
+background-color: #316D9E;
 }
 .wy-nav-side {
-background: #ff6600;
-background-color: #ff6600;
+background: #316D9E;
+background-color: #316D9E;
 }
 .rst-versions .rst-current-version {
-background: #ff6600;
+background: #316D9E;
 background-color: #ff6600;
 }
