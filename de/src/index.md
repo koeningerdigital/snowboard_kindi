@@ -2,9 +2,9 @@
 
 <div class="grid" markdown>
 
-> ![logo_snowboardkidis](images/logo_snowboardkidis.png){ width: 230px; }
+- ![logo_snowboardkidis](images/logo_snowboardkidis.png){ width: 230px; }
 
-> Dieser Leitfaden richtet sich an Snowboardlehrer und Verantwortliche in örtlichen Skivereinen, die Snowboardkurse für Kinder im Alter von 4 bis 7 Jahren anbieten möchten. Er umfasst wichtige Aspekte wie den Ablauf der Kurse, das erforderliche Material, die pädagogischen Ziele sowie spezifische Übungen und Rituale, die für eine erfolgreiche und spaßige Einführung der Kinder in den Wintersport sorgen sollen.
+- Dieser Leitfaden richtet sich an Snowboardlehrer und Verantwortliche in örtlichen Skivereinen, die Snowboardkurse für Kinder im Alter von 4 bis 7 Jahren anbieten möchten. Er umfasst wichtige Aspekte wie den Ablauf der Kurse, das erforderliche Material, die pädagogischen Ziele sowie spezifische Übungen und Rituale, die für eine erfolgreiche und spaßige Einführung der Kinder in den Wintersport sorgen sollen.
 
 </div>
 
