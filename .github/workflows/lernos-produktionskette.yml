@@ -34,32 +34,34 @@ jobs:
       - run: pip install mkdocs-rss-plugin
       - run: mkdocs build -f ./de/mkdocs.yml        
 
-      # Create eBook Version (epub)
-      - uses: docker://pandoc/core
-        with:
-          args: >-
-            ./de/metadata.yaml
-            --standalone
-            --resource-path=./de/src
-            --number-sections
-            --toc
-            -V lang=de-de
-            --output=./de/build/${{ github.event.repository.name }}-guide.epub
-            ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+    # Create eBook Version (epub)
+    - uses: docker://pandoc/core
+      with:
+        args: >-
+          ./de/metadata.yaml
+          --standalone
+          --resource-path=./de/src
+          --number-sections
+          --toc
+          -V lang=de-de
+          --output=./de/build/${{ github.event.repository.name }}-guide.epub
+          ./de/src/index.md ./de/src/chapter1.md
 
-      # Create PDF Version (pdf)
-      - uses: docker://pandoc/extra
-        with:
-          args: >-
-            ./de/metadata.yaml
-            --standalone
-            --resource-path=./de/src
-            --number-sections
-            --toc
-            -V lang=de-de
-            --template /.pandoc/templates/eisvogel.latex
-            --output=./de/build/${{ github.event.repository.name }}-guide.pdf
-            ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+
+    # Create PDF Version (pdf)
+    - uses: docker://pandoc/extra
+      with:
+        args: >-
+          ./de/metadata.yaml
+          --standalone
+          --resource-path=./de/src
+          --number-sections
+          --toc
+          -V lang=de-de
+          --template /.pandoc/templates/eisvogel.latex
+          --output=./de/build/${{ github.event.repository.name }}-guide.pdf
+          ./de/src/index.md ./de/src/chapter1.md
+          
 
       # Geänderte Datein zurück ins Repository committen
       - uses: stefanzweifel/git-auto-commit-action@v4
