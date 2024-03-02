@@ -33,6 +33,12 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-rss-plugin
       - run: mkdocs build -f ./de/mkdocs.yml        
+    
+      - name: Checkout repository
+        uses: actions/checkout@v2
+    
+      - name: List directory contents where logo is expected
+        run: ls -l de/src/images/
 
       # Create eBook Version (epub)
       - uses: docker://pandoc/core
