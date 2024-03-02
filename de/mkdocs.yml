@@ -9,7 +9,7 @@ theme:
         primary: custom
     language: de
     icon:
-      logo: material/snowboarding
+      logo: material/snowboard
     features:
       - navigation.tabs
       - navigation.sections
