@@ -11,8 +11,8 @@ theme:
     palette:
         primary: custom
     language: de
+    logo: images/logo_snowboardkidis.png
     icon:
-      logo: images/logo_snowboardkidis.png
       repo: fontawesome/brands/github
     features:
       - navigation.tabs
