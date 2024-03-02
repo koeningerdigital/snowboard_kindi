@@ -5,14 +5,14 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    
+
 theme:
     name: 'material'
     palette:
         primary: custom
     language: de
     icon:
-      logo: /images/logo_snowboardkidis.png
+      logo: images/logo_snowboardkidis.png
       repo: fontawesome/brands/github
     features:
       - navigation.tabs
