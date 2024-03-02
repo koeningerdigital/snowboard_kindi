@@ -41,8 +41,10 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list
+  - md_in_html
 
 plugins:
   - search
   - rss:
       abstract_chars_count: -1  # -1 for full content
+  - glightbox

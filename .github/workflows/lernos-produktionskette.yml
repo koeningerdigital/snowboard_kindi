@@ -32,6 +32,7 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
       - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-glightbox
       - run: mkdocs build -f ./de/mkdocs.yml
 
       # Create eBook Version (epub)
