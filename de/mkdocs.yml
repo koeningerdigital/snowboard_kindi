@@ -19,12 +19,10 @@ theme:
       - search.suggest
       - search.highlight
       - content.tabs.link
+    favicon: images/favicon.ico
 
 extra_css:
   - stylesheets/extra.css
-
-repo_name: 'koeningerdigital/snowboard_kindi'
-repo_url: 'https://github.com/koeningerdigital/snowboard_kindi'
 
 extra:
     social:
