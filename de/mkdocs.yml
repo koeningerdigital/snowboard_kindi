@@ -8,7 +8,8 @@ theme:
     palette:
         primary: custom
     language: de
-    logo: images/logo_snowboardkidis.png
+    icon:
+      logo: material/snowboarding
     icon:
       repo: fontawesome/brands/github
     features:
