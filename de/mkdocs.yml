@@ -10,8 +10,6 @@ theme:
     language: de
     icon:
       logo: material/snowboarding
-    icon:
-      repo: fontawesome/brands/github
     features:
       - navigation.tabs
       - navigation.sections
