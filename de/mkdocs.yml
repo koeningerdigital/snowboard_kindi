@@ -47,6 +47,6 @@ plugins:
   - search
   - rss:
       abstract_chars_count: -1  # -1 for full content
-  - glightbox
+  - glightbox:
     skip_classes:
          - skipzoom
