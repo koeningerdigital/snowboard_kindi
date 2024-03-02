@@ -49,18 +49,18 @@ jobs:
       #       ./de/src/index.md
 
       # # Create PDF Version (pdf)
-      # - uses: docker://pandoc/extra
-      #   with:
-      #     args: >-
-      #       ./de/metadata.yaml
-      #       --standalone
-      #       --resource-path=./de/src
-      #       --number-sections
-      #       --toc
-      #       -V lang=de-de
-      #       --template /.pandoc/templates/eisvogel.latex
-      #       --output=./de/build/${{ github.event.repository.name }}-guide.pdf
-      #       ./de/src/index.md
+      - uses: docker://pandoc/extra
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            -V lang=de-de
+            --template /.pandoc/templates/eisvogel.latex
+            --output=./de/build/${{ github.event.repository.name }}-guide.pdf
+            ./de/src/index.md
 
       # Geänderte Datein zurück ins Repository committen
       - uses: stefanzweifel/git-auto-commit-action@v4
