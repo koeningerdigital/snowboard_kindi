@@ -1,6 +1,6 @@
 name: Produktionskette
 
-# on: push
+on: push
 
 jobs:
   convert_via_pandoc:
