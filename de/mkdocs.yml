@@ -22,6 +22,14 @@ theme:
     icon:
       logo: src/images/logo_snowboardkidis.png
       repo: fontawesome/brands/github
+    features:
+      - navigation.tabs
+      - navigation.sections
+      - toc.integrate
+      - navigation.top
+      - search.suggest
+      - search.highlight
+      - content.tabs.link
 
 extra_css:
   - stylesheets/extra.css
