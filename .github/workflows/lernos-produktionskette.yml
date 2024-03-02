@@ -48,7 +48,8 @@ jobs:
       #       --output=./de/build/${{ github.event.repository.name }}-guide.epub
       #       ./de/src/index.md
 
-      # # Create PDF Version (pdf)
+      # Create PDF Version (pdf)
+      - run: mkdir -p ./de/build/
       - uses: docker://pandoc/extra
         with:
           args: >-
