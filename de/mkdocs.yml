@@ -3,9 +3,6 @@ site_url: https://koeningerdigital.github.io/snowboard_kindi/
 docs_dir: src
 site_dir: ../docs/de
 
-nav:
-    - Willkommen: index.md
-
 theme:
     name: 'material'
     palette:
@@ -25,9 +22,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-
-extra_javascript:
-  - javascripts/matomo.js
 
 repo_name: 'koeningerdigital/snowboard_kindi'
 repo_url: 'https://github.com/koeningerdigital/snowboard_kindi'
