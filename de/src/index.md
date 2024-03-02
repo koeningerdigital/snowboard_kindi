@@ -2,7 +2,7 @@
 
 Dieser Leitfaden richtet sich an Snowboardlehrer und Verantwortliche in örtlichen Skivereinen, die Snowboardkurse für Kinder im Alter von 4 bis 7 Jahren anbieten möchten. Er umfasst wichtige Aspekte wie den Ablauf der Kurse, das erforderliche Material, die pädagogischen Ziele sowie spezifische Übungen und Rituale, die für eine erfolgreiche und spaßige Einführung der Kinder in den Wintersport sorgen sollen.
 
-![logo_snowboardkidis](/Users/fabiankoeninger/Documents/GitHub/obsidian-git-sync/snowboard_kindi/de/src/images/logo_snowboardkidis.png)
+![logo_snowboardkidis](de/src/images/logo_snowboardkidis.png)
 
 ## Allgemeine Informationen
 
@@ -24,7 +24,7 @@ Hier siehst du ein Beispiel für die Struktur und Organisation eines beispielhaf
 -	Alternativ kann man beim Schwäbischen Skiverband das Material stark vergünstigt über den Verein kaufen und selbst vermieten (Ausrüstung | Online-Shop des Schwäbischen Skiverbandes e.V. (online-ssv.de)) Bei 60 € / Saison wäre der ROI nach ca. 3 Jahren.
 -	Weitere Alternative wäre es das Material gebraucht zu kaufen, z.B. eBay Kleinanzeigen oder facebook Gruppen (z.B. „boardermäuse“).
 
-![Beispiel für ein Snowboard mit Riglets](/Users/fabiankoeninger/Documents/GitHub/obsidian-git-sync/snowboard_kindi/de/src/images/image1.png)
+![Beispiel für ein Snowboard mit Riglets](de/src/images/image1.png)
 
 ## Ziele des Kurses
 
@@ -40,7 +40,7 @@ Rituale spielen eine wesentliche Rolle im Lernprozess der Kinder und helfen, ein
 
 **Beispiele**: Einsatz eines Maskottchens, festgelegte Rituale wie Begrüßungslied, Pausen und Abschlussrituale.
 
-![Beispiel für Maskottchen](/Users/fabiankoeninger/Documents/GitHub/obsidian-git-sync/snowboard_kindi/de/src/images/koenfabi_a_small_teddy_bear_on_a_snowboard_is_standing_in_the_s_bb110d26-4690-49f6-8514-3fcbc9a0ab3a.png)
+![Beispiel für Maskottchen](de/src/images/koenfabi_a_small_teddy_bear_on_a_snowboard_is_standing_in_the_s_bb110d26-4690-49f6-8514-3fcbc9a0ab3a.png)
 
 ## Ablauf Tag 1
 
@@ -64,4 +64,4 @@ Wenn die Luft kalt ist und der Schnee unter den Boots knirscht, dann ist es Zeit
 
 All diese Schritte sind wichtige Bausteine für den großen Moment: Wenn beide Füße festgeschnallt sind und die ersten eigenständigen Rutschversuche auf dem Schnee gemacht werden. Es ist ein Tag voller neuer Eindrücke, voller Lachen und vielleicht dem einen oder anderen kleinen Sturz. Aber vor allem ist es ein Tag, der den Kids zeigt, dass sie mit Mut und der richtigen Anleitung alles erreichen können – sogar das Snowboardfahren.
 
-![Kreisbildung](/Users/fabiankoeninger/Documents/GitHub/obsidian-git-sync/snowboard_kindi/de/src/images/image3.png)
+![Kreisbildung](de/src/images/image3.png)
