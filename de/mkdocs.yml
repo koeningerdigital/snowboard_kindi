@@ -42,21 +42,19 @@ extra_css:
 extra_javascript:
   - javascripts/matomo.js
 
-repo_name: 'cogneon/lernos-template'
-repo_url: 'https://github.com/cogneon/lernos-template'
+repo_name: 'koeningerdigital/snowboard_kindi'
+repo_url: 'https://github.com/koeningerdigital/snowboard_kindi'
 
 extra:
     social:
-        - icon: fontawesome/brands/mastodon
-          link: 'https://colearn.social/@lernos'
         - icon: fontawesome/brands/linkedin
-          link: 'https://www.linkedin.com/showcase/lern-os'
+          link: 'https://www.linkedin.com/'
         - icon: fontawesome/brands/github
-          link: 'https://github.com/cogneon'
+          link: 'https://github.com/'
     giscus: true
     generator: false
 
-copyright: cogneon.de/impressum
+copyright: https://github.com/koeningerdigital/
 
 markdown_extensions:
   - pymdownx.superfences:
